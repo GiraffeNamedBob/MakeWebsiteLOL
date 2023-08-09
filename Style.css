@@ -11,8 +11,9 @@ body {
     color: #333;
 }
 
-h3 {
-    color: #white
+.highlight h3 {
+    background-color: Grey;
+    padding: 5px;
 }
 
 /* Add padding to the entire page */
@@ -80,8 +81,5 @@ footer {
     }
 }
 /* test */
-.highlight h3 {
-    background-color: Grey;
-    padding: 5px;
-}
+
 
