@@ -1,5 +1,5 @@
 /* Reset some default browser styles */
-body, h1, h2, h3, p, ul, li {
+body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
@@ -9,6 +9,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
     color: #333;
+}
+
+h3 {
+    color: #white
 }
 
 /* Add padding to the entire page */
@@ -74,5 +78,10 @@ footer {
     nav ul li {
         margin: 0 10px;
     }
+}
+/* test */
+.highlight h3 {
+    background-color: Grey;
+    padding: 5px;
 }
 
