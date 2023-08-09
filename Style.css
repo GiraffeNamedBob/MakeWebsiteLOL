@@ -11,8 +11,9 @@ body {
     color: #333;
 }
 
-.highlight h3 {
+.highlight h1 {
     background-color: Grey;
+    color: #fff;
     padding: 5px;
 }
 
